@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    val phones: Phone = Phone()
+    val phones = Phone()
 
     phones.insert(PhoneClass("Iphone XR", 128))
     phones.insert(PhoneClass("Samsung S22", 256))
